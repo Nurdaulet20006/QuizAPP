@@ -210,8 +210,8 @@ export const sidebarStyles = {
   
   // Sidebar header
   sidebarHeader: "top-0 z-20 p-6 bg-gradient-to-r from-blue-100 to-indigo-100 text-slate-800 relative overflow-hidden",
-  headerDecoration1: "absolute top-0 right-0 w-32 h-32 -mt-16 -mr-16 bg-white opacity-20 rounded-full",
-  headerDecoration2: "absolute bottom-0 left-0 w-24 h-24 -mb-12 -ml-12 bg-blue-200 opacity-40 rounded-full",
+  //headerDecoration1: "absolute top-0 right-0 w-32 h-32 -mt-16 -mr-16 bg-white opacity-20 rounded-full",
+  //headerDecoration2: "absolute bottom-0 left-0 w-24 h-24 -mb-12 -ml-12 bg-blue-200 opacity-40 rounded-full",
   headerContent: "flex font-[pacifico] items-center justify-between relative z-10",
   logoContainer: "flex items-center space-x-3",
   logoIcon: "p-2 bg-white/40 rounded-xl backdrop-blur-sm border border-white",
