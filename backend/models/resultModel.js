@@ -12,16 +12,16 @@ const ResultSchema = new mongoose.Schema(
       required: true,
       trim: true,
       enum: [
-        "html",
-        "css",
-        "js",
-        "react",
-        "node",
-        "mongodb",
-        "java",
-        "python",
-        "cpp",
-        "bootstrap"
+        "Math",
+        "Informatics",
+        "Physics",
+        "Geography",
+        "Biology",
+        "Chemistry",
+        "Kazakh Language",
+        "Literature",
+        "English Language",
+        "Basics of Law"
       ]
     },
     level: { type: String, required: true, enum: ["basic", "intermediate", "advanced"] },

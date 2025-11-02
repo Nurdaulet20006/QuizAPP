@@ -68,7 +68,7 @@ export default function Navbar({ logoSrc }) {
               <img
                 src={
                   logoSrc ||
-                  "https://yt3.googleusercontent.com/eD5QJD-9uS--ekQcA-kDTCu1ZO4d7d7BTKLIVH-EySZtDVw3JZcc-bHHDOMvxys92F7rD8Kgfg=s900-c-k-c0x00ffffff-no-rj"
+                  "https://media.istockphoto.com/id/1582056074/tr/vektör/black-rectangular-letter-e-icon.jpg?s=170667a&w=0&k=20&c=wVO3_9eibVkmmCHIUUb3tBWyIEDxGuuXNJ0203E9SiA="
                 }
                 alt="QuizMaster logo"
                 className={navbarStyles.logoImage}
