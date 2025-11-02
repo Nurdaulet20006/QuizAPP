@@ -80,7 +80,7 @@ export default function Navbar({ logoSrc }) {
         {/* CENTER: Title */}
         <div className={navbarStyles.titleContainer}>
           <div className={navbarStyles.titleBackground}>
-            <h1 className={navbarStyles.titleText}>Hexagon Quiz Application</h1>
+            <h1 className={navbarStyles.titleText}>EduRush Quizz Platform</h1>
           </div>
         </div>
 

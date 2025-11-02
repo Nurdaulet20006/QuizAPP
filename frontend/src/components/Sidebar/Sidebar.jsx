@@ -66,13 +66,13 @@ const Sidebar = () => {
   const technologies = [
     {
       id: "html",
-      name: "HTML",
+      name: "Math",
       icon: <Globe size={20} />,
       color: "bg-orange-50 text-orange-600 border-orange-200",
     },
     {
       id: "css",
-      name: "CSS",
+      name: "Physic",
       icon: <Layout size={20} />,
       color: "bg-blue-50 text-blue-600 border-blue-200",
     },
