@@ -136,8 +136,7 @@ export default function SignUpPage({ onSignupSuccess = null }) {
               </h2>
 
               <p className={signupStyles.subtitle}>
-                Sign up to start using Hexagon Quiz — light UI, smooth
-                micro-interactions.
+                Create your EduRush account - learn smarter through interactive quizzes!
               </p>
 
               {/* Name */}
@@ -161,7 +160,7 @@ export default function SignUpPage({ onSignupSuccess = null }) {
                         ? signupStyles.inputError
                         : signupStyles.inputNormal
                     }`}
-                    placeholder="John Doe"
+                    placeholder="Kaldybek Nurdaulet"
                     required
                   />
                 </div>
