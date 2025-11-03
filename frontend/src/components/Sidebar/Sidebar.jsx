@@ -352,7 +352,7 @@ const Sidebar = () => {
                 <div>
                   <h1 className={sidebarStyles.logoTitle}>EduRush Quiz Arena</h1>
                   <p className={sidebarStyles.logoSubtitle}>
-                    Test your knowledge & improve skills
+                    Test your knowledge & improve your skills
                   </p>
                 </div>
               </div>
