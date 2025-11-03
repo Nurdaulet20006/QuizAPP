@@ -350,7 +350,7 @@ const Sidebar = () => {
                   <BookOpen size={28} className="text-indigo-700" />
                 </div>
                 <div>
-                  <h1 className={sidebarStyles.logoTitle}>Tech Quiz Master</h1>
+                  <h1 className={sidebarStyles.logoTitle}></h1>
                   <p className={sidebarStyles.logoSubtitle}>
                     Test your knowledge & improve skills
                   </p>
